@@ -1,0 +1,1 @@
+Esse repositório serve para que eu coloque exemplos de códigos em c#, Javascript, Typescript, React, React Native e Flutter, vai servir como um local de pesquisa caso necessite.
